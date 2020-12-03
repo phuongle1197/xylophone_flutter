@@ -13,6 +13,8 @@ This is a basic version of xylophone with 7 notes on 7 colorful keys
 
 <img src="images/demo.PNG" width="400" height="800">
 
+[Check the preview video on Twitter](https://twitter.com/minmint_97/status/1334414963130175488)
+
 ## What I have learnt
 
 - How to incorporate open source libraries of code into your project using Flutter Packages.
